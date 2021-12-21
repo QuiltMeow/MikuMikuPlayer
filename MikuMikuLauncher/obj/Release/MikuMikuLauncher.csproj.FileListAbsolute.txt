@@ -1,0 +1,16 @@
+F:\Download\堆肥區\MikuMikuPlayer\MikuMikuLauncher\bin\Release\MikuMikuLauncher.exe.config
+F:\Download\堆肥區\MikuMikuPlayer\MikuMikuLauncher\bin\Release\MikuMikuLauncher.exe
+F:\Download\堆肥區\MikuMikuPlayer\MikuMikuLauncher\bin\Release\MikuMikuLauncher.pdb
+F:\Download\堆肥區\MikuMikuPlayer\MikuMikuLauncher\obj\Release\MikuMikuLauncher.csprojAssemblyReference.cache
+F:\Download\堆肥區\MikuMikuPlayer\MikuMikuLauncher\obj\Release\MikuMikuLauncher.Properties.Resources.resources
+F:\Download\堆肥區\MikuMikuPlayer\MikuMikuLauncher\obj\Release\MikuMikuLauncher.csproj.GenerateResource.cache
+F:\Download\堆肥區\MikuMikuPlayer\MikuMikuLauncher\obj\Release\MikuMikuLauncher.exe
+F:\Download\堆肥區\MikuMikuPlayer\MikuMikuLauncher\obj\Release\MikuMikuLauncher.pdb
+G:\VSProject\MikuMikuPlayer\MikuMikuLauncher\bin\Release\MikuMikuLauncher.exe.config
+G:\VSProject\MikuMikuPlayer\MikuMikuLauncher\bin\Release\MikuMikuLauncher.exe
+G:\VSProject\MikuMikuPlayer\MikuMikuLauncher\bin\Release\MikuMikuLauncher.pdb
+G:\VSProject\MikuMikuPlayer\MikuMikuLauncher\obj\Release\MikuMikuLauncher.csprojAssemblyReference.cache
+G:\VSProject\MikuMikuPlayer\MikuMikuLauncher\obj\Release\MikuMikuLauncher.Properties.Resources.resources
+G:\VSProject\MikuMikuPlayer\MikuMikuLauncher\obj\Release\MikuMikuLauncher.csproj.GenerateResource.cache
+G:\VSProject\MikuMikuPlayer\MikuMikuLauncher\obj\Release\MikuMikuLauncher.exe
+G:\VSProject\MikuMikuPlayer\MikuMikuLauncher\obj\Release\MikuMikuLauncher.pdb

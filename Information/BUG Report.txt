@@ -1,0 +1,8 @@
+看得到的問題都修好了
+Base On Miku Miku WMP 已該基礎新增並修正更多功能
+
+如果您還有發現其他 BUG 歡迎發信至 :
+adj66856@quilt.servegame.com
+
+如果原作者有繼續更新
+本專案將套用上游更新
